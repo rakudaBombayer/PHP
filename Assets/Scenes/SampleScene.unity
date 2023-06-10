@@ -619,7 +619,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   explosionEffect: {fileID: 100000, guid: f881607407b15cc46b24d6bda799037a, type: 3}
   collisionSound: {fileID: 8300000, guid: c2adb5fcc83e64c9d99cd80b03c0d00f, type: 3}
-  soundVolume: 100
+  soundVolume: 1000
 --- !u!114 &1815231192
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -633,7 +633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerSpeed: 0
-  RotationSpeed: 0.5
+  RotationSpeed: 0.1
 --- !u!1 &1856873126
 GameObject:
   m_ObjectHideFlags: 0
